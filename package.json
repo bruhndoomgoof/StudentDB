@@ -1,0 +1,22 @@
+{
+  "name": "studentmanagementdashboard",
+  "version": "1.0.0",
+  "description": "A student management dashboard built with Express, SQLite, and vanilla JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "student-management",
+    "dashboard",
+    "express",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
